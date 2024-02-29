@@ -37,15 +37,20 @@ Type "quit" to exit the chat.
 4.**Files and directories**
 
 chatbot.py: Main script containing the chatbot implementation.
+
 intents.json: JSON file containing predefined intents for training the chatbot.
+
 data.pickle: Pickle file storing preprocessed data for training the neural network.
+
 model.h5: Trained neural network model saved in HDF5 format.
 
-5. **dependecies**
+5.**dependencies**
+   
 nltk: Natural Language Toolkit.
 tflearn: Deep learning library.
 tensorflow: Open-source machine learning library.
 
 6.**license**
+
 This project is licensed under the MIT License.
 
