@@ -25,14 +25,25 @@ The chatbot is trained to understand and respond to user input based on predefin
    pip install nltk tflearn tensorflow
 
 
-2. To run
+2. **To run**
    ```bash
    python chatbot.py
 
-3.Usage
+3.**Usage**
 Start a conversation with the chatbot by entering text when prompted.
 Type "quit" to exit the chat.
+
+4.**Files and directories**
 chatbot.py: Main script containing the chatbot implementation.
 intents.json: JSON file containing predefined intents for training the chatbot.
 data.pickle: Pickle file storing preprocessed data for training the neural network.
 model.h5: Trained neural network model saved in HDF5 format.
+
+5. **dependecies**
+nltk: Natural Language Toolkit.
+tflearn: Deep learning library.
+tensorflow: Open-source machine learning library.
+
+6.**license**
+This project is licensed under the MIT License.
+
