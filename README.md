@@ -12,9 +12,10 @@ The chatbot is trained to understand and respond to user input based on predefin
    pip install nltk tflearn tensorflow
 
 2. To run
-python chatbot.py
+   ```bash
+   python chatbot.py
 
-Usage:
+3.Usage
 Start a conversation with the chatbot by entering text when prompted.
 Type "quit" to exit the chat.
 chatbot.py: Main script containing the chatbot implementation.
