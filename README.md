@@ -29,12 +29,12 @@ The chatbot is trained to understand and respond to user input based on predefin
    ```bash
    python chatbot.py
 
-3.**Usage**
+## **Usage**
 
 Start a conversation with the chatbot by entering text when prompted.
 Type "quit" to exit the chat.
 
-4.**Files and Directories**
+## **Files and Directories**
 
 chatbot.py: Main script containing the chatbot implementation.
 
@@ -44,13 +44,13 @@ data.pickle: Pickle file storing preprocessed data for training the neural netwo
 
 model.h5: Trained neural network model saved in HDF5 format.
 
-5.**Dependencies**
+## **Dependencies**
    
 nltk: Natural Language Toolkit.
 tflearn: Deep learning library.
 tensorflow: Open-source machine learning library.
 
-6.**License**
+## **License**
 
 This project is licensed under the MIT License.
 
