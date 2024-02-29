@@ -1,15 +1,29 @@
 # chatbot
 Deep learning Chatbot
+# Chatbot Project
+
+This project implements a simple chatbot using Natural Language Processing (NLP) techniques with the help of libraries such as nltk, tflearn, and tensorflow.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Files and Directories](#files-and-directories)
+- [Dependencies](#dependencies)
+- [License](#license)
+
 ## Overview
 
 The chatbot is trained to understand and respond to user input based on predefined intents stored in a JSON file. It uses the Lancaster Stemmer for word stemming and employs a neural network model built using tflearn and tensorflow for intent recognition.
 
 ## Setup
 
-1. Install the required dependencies:
+1. **Install Dependencies:**
 
    ```bash
    pip install nltk tflearn tensorflow
+
 
 2. To run
    ```bash
