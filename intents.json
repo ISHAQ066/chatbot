@@ -1,0 +1,104 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+     "context_set": ""
+    },
+    {"tag": "age",
+     "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+     "responses": ["I am 18 years old!", "18 years young!"],
+     "context_set": ""
+    },
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "whats your name?"],
+     "responses": ["You can call me Tim.", "I'm Tim!", "I'm Tim aka Tech With Tim."],
+     "context_set": ""
+    },
+    {"tag": "shop",
+     "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+     "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
+     "context_set": ""
+    },
+    {"tag": "hours",
+     "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+     "responses": ["We are open 7am-4pm Monday-Friday!"],
+     "context_set": ""
+    },
+    {"tag": "thanks",
+     "patterns": ["Thank you", "Thanks", "Appreciate it", "Thanks a lot"],
+     "responses": ["You're welcome!", "No problem!", "Glad I could help!"],
+     "context_set": ""
+    },
+    {"tag": "weather",
+     "patterns": ["What's the weather like today?", "Is it going to rain?", "Weather forecast", "Tell me about the weather"],
+     "responses": ["I'm sorry, I don't have real-time weather information.", "You might want to check a weather website for the latest updates."],
+     "context_set": ""
+    },
+    {"tag": "joke",
+     "patterns": ["Tell me a joke", "Do you know any jokes?", "Joke time", "Give me a laugh"],
+     "responses": ["Why don't scientists trust atoms? Because they make up everything!", "What did one ocean say to the other ocean? Nothing, they just waved!"],
+     "context_set": ""
+    },
+    {"tag": "help",
+     "patterns": ["I need help", "Can you assist me?", "Help me out", "I'm stuck"],
+     "responses": ["Sure, I'll do my best to assist you!", "What do you need help with?"],
+     "context_set": ""
+    },
+    {"tag": "music",
+     "patterns": ["Recommend some music", "What's your favorite song?", "Play me a song", "Music suggestions"],
+     "responses": ["I don't have the capability to play music, but I can recommend some genres or artists!", "How about trying some classical music or exploring the latest hits?"],
+     "context_set": ""
+    },
+    {"tag": "technology",
+     "patterns": ["Tell me about the latest tech news", "What's happening in the tech world?", "Tech updates", "Any new gadgets?"],
+     "responses": ["I'm not currently updated on the latest news, but you can check reputable tech news websites for the latest information!"],
+     "context_set": ""
+    },
+    {"tag": "compliment",
+     "patterns": ["You're great", "You're doing a good job", "Nice work", "Impressive"],
+     "responses": ["Thank you!", "I appreciate the kind words!", "Glad to hear that!"],
+     "context_set": ""
+    },
+    {"tag": "location",
+     "patterns": ["Where are you located?", "What's your address?", "Location", "Find your place"],
+     "responses": ["I exist in the digital realm and don't have a physical location.", "I'm a virtual assistant without a physical presence."],
+     "context_set": ""
+    },
+    {"tag": "favorite",
+     "patterns": ["What's your favorite color?", "Do you have a favorite movie?", "Favorite things", "Preferences"],
+     "responses": ["I don't have personal preferences as I am a computer program.", "I don't have favorites, but I'm here to help you with any information you need!"],
+     "context_set": ""
+    },
+    {"tag": "movie",
+     "patterns": ["Recommend a movie", "What's a good movie to watch?", "Favorite films", "Movie suggestions"],
+     "responses": ["I can suggest popular genres like action, comedy, or drama. What are you in the mood for?", "How about trying a classic or exploring the latest releases?"],
+     "context_set": ""
+    },
+    {"tag": "book",
+     "patterns": ["Any good books to read?", "Recommend a book", "Book suggestions", "Favorite books"],
+     "responses": ["Books can vary based on your interests. What genres do you enjoy?", "There are many great books out there. What type of stories do you like?"],
+     "context_set": ""
+    },
+    {"tag": "hobbies",
+     "patterns": ["What do you do for fun?", "Any hobbies?", "Interests", "Leisure activities"],
+     "responses": ["I'm here to assist and chat with you. What are some of your interests or hobbies?", "I don't have hobbies, but I'm interested in learning about yours!"],
+     "context_set": ""
+    },
+    {"tag": "languages",
+     "patterns": ["How many languages do you speak?", "Language skills", "Multilingual", "Do you understand different languages?"],
+     "responses": ["I understand and communicate in various languages, but my proficiency may vary.", "I can process and generate text in multiple languages. How can I assist you today?"],
+     "context_set": ""
+    },
+    {"tag": "future",
+     "patterns": ["What do you think the future holds?", "Predict the future", "Future trends", "Futuristic outlook"],
+     "responses": ["I can't predict the future, but I'm here to help with any information or questions you have!", "The future is uncertain, but I'm ready to assist you in the present."],
+     "context_set": ""
+    }
+    
+]
+}
