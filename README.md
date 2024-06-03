@@ -4,7 +4,7 @@ Deep learning Chatbot
 
 This project implements a simple chatbot using Natural Language Processing (NLP) techniques with the help of libraries such as nltk, tflearn, and tensorflow.
 
-## Table of Contents
+## Table  of  Contents
 
 - [Overview](#overview)
 - [Setup](#setup)
